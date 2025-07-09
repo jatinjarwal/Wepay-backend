@@ -1,4 +1,4 @@
-# 💸 WePay Backend – Group Expense Tracker
+#  WePay Backend – Group Expense Tracker
 
 WePay is a simple backend API built with **Node.js**, **Express**, and **MongoDB** that helps users **track shared expenses** in a group — like trips, college fests, or friend groups.
 
